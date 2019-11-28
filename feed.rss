@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
     <channel>
-        <title>Road Work Secret Bonus Content</title>
-        <link>https://www.patreon.com/roadwork</link>
-        <description>Road Work's Private RSS Feed for Ansel Brandt</description>
-        <atom:link href="https://www.patreon.com/rss/203482" rel="self" type="application/rss+xml"></atom:link>
+        <title>Personal Podcasts</title>
+        <link>https://anselbrandt.com</link>
+        <description>Personal Podcasts</description>
+        <atom:link href="https://podfeed.netlify.com" rel="self" type="application/rss+xml"></atom:link>
         <itunes:owner>
-            <itunes:name>Road Work Secret Bonus Content</itunes:name>
-            <itunes:email>support@patreon.com</itunes:email>
+            <itunes:name>Personal Podcasts</itunes:name>
+            <itunes:email>mail@me.com</itunes:email>
         </itunes:owner>
-        <itunes:author>Road Work Secret Bonus Content</itunes:author>
-        <itunes:image href="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/203482/5f75e94a43744c66a5abd529a10286dd/1.jpeg?token-time=2145916800&amp;token-hash=btLdwHuu1uS8twapjKbbUy-8vizImuE5L0vemGaFZtM%3D"></itunes:image>
+        <itunes:author>Personal Podcasts</itunes:author>
+        <itunes:image href="https://source.unsplash.com/random/1400"></itunes:image>
         <googleplay:block>yes</googleplay:block>
         <itunes:block>Yes</itunes:block>
         <language>en-US</language>
         <pubDate>Wed, 27 Nov 2019 21:31:35 GMT</pubDate>
         <lastBuildDate>Wed, 27 Nov 2019 21:31:35 GMT</lastBuildDate>
         <image>
-            <url>https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/203482/5f75e94a43744c66a5abd529a10286dd/1.jpeg?token-time=2145916800&amp;token-hash=btLdwHuu1uS8twapjKbbUy-8vizImuE5L0vemGaFZtM%3D</url>
-            <title>Road Work Secret Bonus Content</title>
-            <link>https://www.patreon.com/roadwork</link>
+            <url>https://source.unsplash.com/random/1400</url>
+            <title>Personal Podcasts</title>
+            <link>https://anselbrandt.com</link>
         </image>
         <item>
-            <title>John Godzilla - Bonus for Ep 168 "Carpetbaggery"</title>
-            <link>https://www.patreon.com/posts/john-godzilla-ep-31414969</link>
+            <title>Dan Akroyd</title>
+            <link>https://anselbrandt.com</link>
             <description>&lt;p&gt;John and Dan talk about names.&lt;/p&gt;</description>
-            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/31414969/9fd4be30942f46caa5762ec9f85ab48a/1.mp3?token-time=2145916800&amp;token-hash=NKVmNLqtl_CLht-BVssilHVALir9aOgPy4wU3Mz-d3Y%3D" length="32402411" type="audio/mpeg"></enclosure>
+            <enclosure url="https://r2---sn-ux3n588t-mjh6.googlevideo.com/videoplayback?expire=1574931513&amp;ei=2TffXdvHEcfQ8wSk37PgAQ&amp;ip=198.48.201.177&amp;id=o-ADHUc9VPSFEHNqfveDcub-2QEooR-Iwiid-n3KDqp028&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-ux3n588t-mjh6%2Csn-t0a7sn7d&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=1&amp;pl=21&amp;initcwndbps=1145000&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=136010026&amp;dur=8403.997&amp;lmt=1572986014473697&amp;mt=1574909815&amp;fvip=5&amp;keepalive=yes&amp;fexp=23842630&amp;c=WEB&amp;txp=4531432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=ALgxI2wwRQIgUgnb_zl7RoXqxL05IzPoyN1jiLkK7ncoDdbXoccRjtICIQCc7N01TzF_Ovm0UOtWK5cX2JG6NneXfDd1xOiJQrrprQ%3D%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIhAP0bn8evfUYMgn6opLyjedFUKqQ5xMY4AdXuvED7aDn-AiAaERjXXzPZRDygaAJSu-AlsFBT0zO_zdBCV8XASYQvUA%3D%3D" length="136010026" type="audio/mp4"></enclosure>
             <guid isPermaLink="false">31414969</guid>
             <pubDate>Fri, 08 Nov 2019 15:52:56 GMT</pubDate>
         </item>
         <item>
-            <title>Super Halloween Spooky Hidden Bonus for Ep 167</title>
-            <link>https://www.patreon.com/posts/super-halloween-31233932</link>
+            <title>Peter Thiel</title>
+            <link>https://anselbrandt.com</link>
             <description>&lt;p&gt;John is irked. &lt;/p&gt;</description>
-            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/31233932/d7d8bea3f0ad417fbb28a8582e597b2e/1.mp3?token-time=2145916800&amp;token-hash=cnlIGRsvAURnxRczTnDj0fLllwUPyGC54X770eAVOM4%3D" length="46287538" type="audio/mpeg"></enclosure>
+            <enclosure url="https://r2---sn-t0a7ln7d.googlevideo.com/videoplayback?expire=1574931640&amp;ei=WDjfXdjaOKGQ8gSzpLywAQ&amp;ip=198.48.201.177&amp;id=o-AEdFxqpOssI3n7JWLPB6He8jKKO1Yl36jYSA4im_3rXI&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C26&amp;mn=sn-t0a7ln7d%2Csn-tt1e7n7e&amp;ms=au%2Conr&amp;mv=m&amp;mvi=1&amp;pl=21&amp;initcwndbps=1338750&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=167120529&amp;dur=10326.308&amp;lmt=1567098548111962&amp;mt=1574909957&amp;fvip=2&amp;keepalive=yes&amp;fexp=23842630&amp;c=WEB&amp;txp=5531432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=ALgxI2wwRgIhAKW0haVh4p6V_q20Wt7nofpkoCKv7uE-lFUpAkbXvb1iAiEAnN18XJ5cAg6gU-GjwVFg_-5LINjk7c9m3ge1waNGGTU%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRgIhAPribuQBDRFgdnicBgTvL2TQxxzPlhkqnKIWsdqSQTt7AiEAnZ505H1LkSLfjiCgJ21RnJMA9PRhGt5dfr5wmXJNbsU%3D" length="167120529" type="audio/mp4"></enclosure>
             <guid isPermaLink="false">31233932</guid>
             <pubDate>Fri, 01 Nov 2019 20:08:23 GMT</pubDate>
         </item>
