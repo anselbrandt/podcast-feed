@@ -1,41 +1,353 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
     <channel>
-        <title>Personal Podcasts</title>
-        <link>https://anselbrandt.com</link>
-        <description>Personal podcast feed</description>
-        <atom:link href="https://podfeed.netlify.com" rel="self" type="application/rss+xml"></atom:link>
+        <title>Road Work Secret Bonus Content</title>
+        <link>https://www.patreon.com/roadwork</link>
+        <description>Road Work's Private RSS Feed for Ansel Brandt</description>
+        <atom:link href="https://www.patreon.com/rss/203482" rel="self" type="application/rss+xml"></atom:link>
         <itunes:owner>
-            <itunes:name>Personal Podcasts</itunes:name>
-            <itunes:email>mail@me.com</itunes:email>
+            <itunes:name>Road Work Secret Bonus Content</itunes:name>
+            <itunes:email>support@patreon.com</itunes:email>
         </itunes:owner>
         <itunes:author>Road Work Secret Bonus Content</itunes:author>
-        <itunes:image href="https://source.unsplash.com/random/1400"></itunes:image>
+        <itunes:image href="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/203482/5f75e94a43744c66a5abd529a10286dd/1.jpeg?token-time=2145916800&amp;token-hash=btLdwHuu1uS8twapjKbbUy-8vizImuE5L0vemGaFZtM%3D"></itunes:image>
         <googleplay:block>yes</googleplay:block>
         <itunes:block>Yes</itunes:block>
         <language>en-US</language>
         <pubDate>Wed, 27 Nov 2019 21:31:35 GMT</pubDate>
         <lastBuildDate>Wed, 27 Nov 2019 21:31:35 GMT</lastBuildDate>
         <image>
-            <url>https://source.unsplash.com/random/1400</url>
-            <title>Personal Podcasts</title>
-            <link>https://anselbrandt.com</link>
+            <url>https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/203482/5f75e94a43744c66a5abd529a10286dd/1.jpeg?token-time=2145916800&amp;token-hash=btLdwHuu1uS8twapjKbbUy-8vizImuE5L0vemGaFZtM%3D</url>
+            <title>Road Work Secret Bonus Content</title>
+            <link>https://www.patreon.com/roadwork</link>
         </image>
         <item>
-            <title>Dan Akroyd on Joe Rogan</title>
-            <link>https://anselbrandt.com</link>
-            <description>&lt;p&gt;Dan Akroyd on Joe Rogan&lt;/p&gt;</description>
-            <enclosure url="https://r2---sn-ux3n588t-mjh6.googlevideo.com/videoplayback?expire=1574929848&amp;ei=WDHfXYznDof5hgbz4Zj4DQ&amp;ip=198.48.201.177&amp;id=o-AIq0roswSrHeiAvzL_2Jwm2rPfS8kscIgGi2Ybluknnl&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-ux3n588t-mjh6%2Csn-t0a7sn7d&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=1&amp;pcm2cms=yes&amp;pl=21&amp;initcwndbps=1066250&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=136010026&amp;dur=8403.997&amp;lmt=1572986014473697&amp;mt=1574908134&amp;fvip=5&amp;keepalive=yes&amp;fexp=23842630%2C23860862&amp;c=WEB&amp;txp=4531432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=ALgxI2wwRgIhAPzJCS3xktz5rr9oIh1LlGUdOS_RmhBUasJAnIEG9issAiEA0NuLy-3wKqR9rDr3YWcTlrf-hAK9c-8Y79Sim2UOJIM%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIgbbZxDCe7pZLoXYtJOMVC9j074FLvv-uapYPs-CjeOYsCIQCFdA1CWpdoYTpbPztrp5nisGen3ZBDp0Dn9UA20TSGTQ%3D%3D" length="136010026" type="audio/mp4"></enclosure>
+            <title>John Godzilla - Bonus for Ep 168 "Carpetbaggery"</title>
+            <link>https://www.patreon.com/posts/john-godzilla-ep-31414969</link>
+            <description>&lt;p&gt;John and Dan talk about names.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/31414969/9fd4be30942f46caa5762ec9f85ab48a/1.mp3?token-time=2145916800&amp;token-hash=NKVmNLqtl_CLht-BVssilHVALir9aOgPy4wU3Mz-d3Y%3D" length="32402411" type="audio/mpeg"></enclosure>
             <guid isPermaLink="false">31414969</guid>
             <pubDate>Fri, 08 Nov 2019 15:52:56 GMT</pubDate>
         </item>
         <item>
-            <title>Peter Thiel on The Portal/title>
-            <link>https://anselbrandt.com</link>
-            <description>&lt;p&gt;Peter Thiel on The Portal&lt;/p&gt;</description>
-            <enclosure url="https://r2---sn-t0a7ln7d.googlevideo.com/videoplayback?expire=1574930295&amp;ei=FzPfXeL0EouMhwax27aIAw&amp;ip=198.48.201.177&amp;id=o-ACGBZqXxSS_C1TyFgBaZDVmIU9vnVqum7xIE13mEAc5l&amp;itag=140&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C26&amp;mn=sn-t0a7ln7d%2Csn-tt1e7n7e&amp;ms=au%2Conr&amp;mv=m&amp;mvi=1&amp;pl=21&amp;initcwndbps=1215000&amp;mime=audio%2Fmp4&amp;gir=yes&amp;clen=167120529&amp;dur=10326.308&amp;lmt=1567098548111962&amp;mt=1574908612&amp;fvip=2&amp;keepalive=yes&amp;fexp=23842630&amp;c=WEB&amp;txp=5531432&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&amp;sig=ALgxI2wwRgIhANYzc4ZhcsgPz8fqG2A1BQkHELUx5tLy7RSqmUqqR5bpAiEA-qXgUToT9VIJ0c7hUGhCbBOsQgWJR77FAAmiFsciPrM%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIgT8No0F4MHZqDbrb7w5jflY2NSN9kN55pAioPo6QJrboCIQDsRzxECoo8bMtHR_QEc83C_3UuZonvu1QHiz10TcLPOw%3D%3D" length="167120529" type="audio/mp4">></enclosure>
+            <title>Super Halloween Spooky Hidden Bonus for Ep 167</title>
+            <link>https://www.patreon.com/posts/super-halloween-31233932</link>
+            <description>&lt;p&gt;John is irked. &lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/31233932/d7d8bea3f0ad417fbb28a8582e597b2e/1.mp3?token-time=2145916800&amp;token-hash=cnlIGRsvAURnxRczTnDj0fLllwUPyGC54X770eAVOM4%3D" length="46287538" type="audio/mpeg"></enclosure>
             <guid isPermaLink="false">31233932</guid>
             <pubDate>Fri, 01 Nov 2019 20:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title>Little Secret Spooky Private </title>
+            <link>https://www.patreon.com/posts/little-secret-31021052</link>
+            <description>&lt;p&gt;What t-shirt?&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/31021052/b88bcc7e2b8c4a15ac6588cd4750c1b4/1.mp3?token-time=2145916800&amp;token-hash=phz3w96FdFWLaO5ayhDF99ErMeDmYU8wADTiftL9VfA%3D" length="53636514" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">31021052</guid>
+            <pubDate>Thu, 24 Oct 2019 23:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>Natural Secret Privates for Ep 164</title>
+            <link>https://www.patreon.com/posts/natural-secret-30691128</link>
+            <description>&lt;p&gt;It's 20 days until Halloween! &lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/30691128/5cde749d8d3a40f98b603237dd02c5b9/1.mp3?token-time=2145916800&amp;token-hash=7c3Crk9mXa7UE7_vYb-Y2BDPwWa-84-KnAZb1lvehho%3D" length="39964234" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">30691128</guid>
+            <pubDate>Fri, 11 Oct 2019 23:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Deep Privates for Ep. 163</title>
+            <link>https://www.patreon.com/posts/deep-privates-ep-30524876</link>
+            <description>&lt;p&gt;This time, it's personal.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/30524876/13298dbf34314342a3072f144a533aca/1.mp3?token-time=2145916800&amp;token-hash=EA31zKb3VdPaJhaTR_10oqT7ZxnYdVg5pvjFsWCner8%3D" length="47220109" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">30524876</guid>
+            <pubDate>Mon, 07 Oct 2019 00:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 162 Personal Private Contents</title>
+            <link>https://www.patreon.com/posts/episode-162-30297155</link>
+            <description>&lt;p&gt;Dan witnessed something terrible.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/30297155/4756cff9b4784f458b43b623bcb4e1a7/1.mp3?token-time=2145916800&amp;token-hash=J56JLE6zwHn7Ra04pC7kUU9IapqChgYk90VcQkwz3IM%3D" length="37037056" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">30297155</guid>
+            <pubDate>Fri, 27 Sep 2019 21:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Personal Private Materials for Ep. 161</title>
+            <link>https://www.patreon.com/posts/personal-private-30119351</link>
+            <description>&lt;p&gt;Dan and John have concerns.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/30119351/e7df5667896e4f85b74adb66c76874ee/1.mp3?token-time=2145916800&amp;token-hash=jov2Q1kzsOonmjINCDGWQVwFb9ZTI-95WC40twjuSL4%3D" length="36069063" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">30119351</guid>
+            <pubDate>Fri, 20 Sep 2019 21:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>Secret Private Personal Sounds for Ep. 159</title>
+            <link>https://www.patreon.com/posts/secret-private-29685728</link>
+            <description>&lt;p&gt;John makes sound toward you.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/29685728/605f8012bb994ca383ab017cae19a7ac/1.mp3?token-time=2145916800&amp;token-hash=AfGIDXksK_SHS-cHSLvyQve1SELhZ_WYxTHcKDYelRM%3D" length="59406232" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">29685728</guid>
+            <pubDate>Tue, 03 Sep 2019 20:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>Personal Private Content for Ep. 158</title>
+            <link>https://www.patreon.com/posts/personal-private-29223053</link>
+            <description>&lt;p&gt;Important content exists here.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/29223053/04d49fec117341128a6cc497d8825edf/1.mp3?token-time=2145916800&amp;token-hash=IUkYwWGISZqbArZDZF5k-ENC9p29zmL4fxgx9RygSKY%3D" length="32982957" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">29223053</guid>
+            <pubDate>Fri, 16 Aug 2019 22:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Personal Privates for Episode #157</title>
+            <link>https://www.patreon.com/posts/personal-for-157-29164412</link>
+            <description>&lt;p&gt;John is between a rock and a hard place.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/29164412/e24d6a4cb28f4abd83542b7320b705d9/1.mp3?token-time=2145916800&amp;token-hash=3Qdt5W-nqRZnwq2sWMz97JYySnEmFtbqHmDWeYvIxws%3D" length="41751636" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">29164412</guid>
+            <pubDate>Wed, 14 Aug 2019 18:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title>Secret Episode Content for Episode 155</title>
+            <link>https://www.patreon.com/posts/secret-episode-28864424</link>
+            <description>&lt;p&gt;We are starting an experiment, offering our normal episode without ads to our Patreon supporters.&lt;/p&gt;&lt;p&gt;So this week, enjoy an ad-free version of the normal episode.&lt;/p&gt;&lt;p&gt;Please note: We didn't have an opportunity to record the bonus episode this week, but we wanted to be clear that &lt;em&gt;we're not replacing the bonus content with ad-free versions of the normal show&lt;/em&gt;. We will still be doing the bonus content as well.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;END TRANSMISSION&lt;/strong&gt;&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/28864424/17b197e6c5ac49c2ac7dbd7f2dbb07fc/1.mp3?token-time=2145916800&amp;token-hash=EWg6omdvy8Po7jqXTGjFAprNNioVTO3M7uqaeGTlK_c%3D" length="48275247" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">28864424</guid>
+            <pubDate>Fri, 02 Aug 2019 16:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Content for Episode 154</title>
+            <link>https://www.patreon.com/posts/bonus-content-28675696</link>
+            <description>&lt;p&gt;"Chew on a branch."&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/28675696/0a10cea46ab24d6cbc8147db4394de4c/1.mp3?token-time=2145916800&amp;token-hash=nLYKQRg5T3cItJXsVqv3zcDqgbNGMt2ngucG8O4CTQI%3D" length="48458941" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">28675696</guid>
+            <pubDate>Fri, 26 Jul 2019 21:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Secret Bonus Materials for Episode 153</title>
+            <link>https://www.patreon.com/posts/secret-bonus-for-28503225</link>
+            <description>&lt;p&gt;John and Dan respond to serious listener emails.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/28503225/4a08ff78d78f421d8c2e39ab4db3c898/1.mp3?token-time=2145916800&amp;token-hash=E17bOpATNI1GHEQn0uizqOkf-Nug8RtaIRfRnGgyE7w%3D" length="40994294" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">28503225</guid>
+            <pubDate>Fri, 19 Jul 2019 21:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>Secret Content for #152: A Most Phallic Building</title>
+            <link>https://www.patreon.com/posts/secret-content-28332922</link>
+            <description>&lt;p&gt;John and Dan discuss crying, chaos, and the nation's most phallic building.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/28332922/531f1315c6da445e9dfa674b33f0b9f3/1.mp3?token-time=2145916800&amp;token-hash=m9TfUPYLsOxGDBl73THScjtLWWazS_w-fD2IFxLSDsI%3D" length="45778150" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">28332922</guid>
+            <pubDate>Fri, 12 Jul 2019 19:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Secret Content for Episode 150</title>
+            <link>https://www.patreon.com/posts/secret-content-27098387</link>
+            <description>&lt;p&gt;John and Dan discuss parenthood and the end of life as we know it.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/27098387/1f74fe009faa4aa598e55da8356d2ed6/1.mp3?token-time=2145916800&amp;token-hash=orniBiG3Nyg3sDIdliv-8yo9GMAoxFY7L_jj8Ug7fHY%3D" length="40823140" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">27098387</guid>
+            <pubDate>Fri, 24 May 2019 15:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title>Sekrit Bonus Contents of Episode 149.00</title>
+            <link>https://www.patreon.com/posts/sekrit-bonus-of-26974312</link>
+            <description>&lt;p&gt;John explains why he has been going out at 2am to eat at greasy spoons.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/26974312/deec49c519e340e3b86fc88b64b5486e/1.mp3?token-time=2145916800&amp;token-hash=oGibEbFn8dAhQ3_T0TETT4qhw7hgrUchKI5UFXOdxY0%3D" length="31990513" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">26974312</guid>
+            <pubDate>Sun, 19 May 2019 15:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Secret Materials for Episode #148</title>
+            <link>https://www.patreon.com/posts/secret-materials-26758670</link>
+            <description>&lt;p&gt;John reveals his true feelings about film as a medium, and other listener questions.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/26758670/61fc6fa33f9c4baf927d2ae6939d077a/1.mp3?token-time=2145916800&amp;token-hash=H4un3PraFr0pJz_vQBw8XJVYrycduQhaU0vgDPbvf_U%3D" length="21724390" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">26758670</guid>
+            <pubDate>Fri, 10 May 2019 15:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Content for Episode 146</title>
+            <link>https://www.patreon.com/posts/bonus-content-26386088</link>
+            <description>&lt;p&gt;John and Dan address an email about attractiveness.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/26386088/3d40fa4ff1af49feb997ffa114f066eb/1.mp3?token-time=2145916800&amp;token-hash=wQuY5ZhMGMY50tJllgjYigX8mR4COsIO9s46xxaV2ug%3D" length="28678082" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">26386088</guid>
+            <pubDate>Fri, 26 Apr 2019 21:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 145 Bonus</title>
+            <link>https://www.patreon.com/posts/episode-145-26223988</link>
+            <description>&lt;p&gt;John gets candid with Dan about selling his house and co-parenting.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/26223988/96526e781d804efc8a98f5990efe35e7/1.mp3?token-time=2145916800&amp;token-hash=xNnqW6vk7cds8a0feGr5zctG9SpaddVWAM2kcKwjuCg%3D" length="17743015" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">26223988</guid>
+            <pubDate>Fri, 19 Apr 2019 20:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Content for Episode #144</title>
+            <link>https://www.patreon.com/posts/bonus-content-26066411</link>
+            <description>&lt;p&gt;John and Dan discuss thrift shopping for the tallest of men.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/26066411/c498d22346d442e782841801b12f244e/1.mp3?token-time=2145916800&amp;token-hash=BqUsoAQo6FVHxrQ-siPaIdAEpmwndbr3xvaVT48AIF4%3D" length="47776831" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">26066411</guid>
+            <pubDate>Fri, 12 Apr 2019 21:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 143 Bonus Materials</title>
+            <link>https://www.patreon.com/posts/episode-143-25719226</link>
+            <description>&lt;p&gt;John feels emotions.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/25719226/1f46357383624adca541c6a0c74d9ee5/1.mp3?token-time=2145916800&amp;token-hash=n8h-Z80Nq_8iZJNU3CM04VdfFui9nEH6hNg6xtBSTBU%3D" length="39357984" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">25719226</guid>
+            <pubDate>Fri, 29 Mar 2019 18:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Show for Episode #142</title>
+            <link>https://www.patreon.com/posts/bonus-show-for-25618891</link>
+            <description>&lt;p&gt;John and Dan tackle a very serious email. Not a joke.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/25618891/56f22834d4f44ad081b9ccc597b9ca23/1.mp3?token-time=2145916800&amp;token-hash=LEdj_YSCTjU9MshdTV_4vxIDtB8G476R6RW18_dmOYk%3D" length="26877513" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">25618891</guid>
+            <pubDate>Mon, 25 Mar 2019 15:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 140 Bonus</title>
+            <link>https://www.patreon.com/posts/episode-140-24881616</link>
+            <description>&lt;p&gt;John and Dan talk about fear.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/24881616/6bcb30d544044531958df59617d0fb28/1.mp3?token-time=2145916800&amp;token-hash=nTP-JDWvGgiTd1OnZ8ZpmORHezbgKtX6lHXY3jQdhVc%3D" length="45965918" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">24881616</guid>
+            <pubDate>Fri, 22 Feb 2019 16:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 139 Bonus Content</title>
+            <link>https://www.patreon.com/posts/episode-139-24462356</link>
+            <description>&lt;p&gt;Call me "Ben"&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/24462356/c5d4b0c17fa944a698d0d8479c8a0814/1.mp3?token-time=2145916800&amp;token-hash=ud10w4JEQeJIHUA2wS47MvGAocby_cX9LefpAeIYcOY%3D" length="37827940" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">24462356</guid>
+            <pubDate>Mon, 04 Feb 2019 17:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 138 Bonus Content</title>
+            <link>https://www.patreon.com/posts/episode-138-24224542</link>
+            <description>&lt;p&gt;This is important. This means something.&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/24224542/2b793ed3a0124be285773bd5022f39a0/1.mp3?token-time=2145916800&amp;token-hash=drFRyOpwKLAhTnF3c2T2mCoxtmHcbrc_M-WvinaNlms%3D" length="34705471" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">24224542</guid>
+            <pubDate>Fri, 25 Jan 2019 20:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Content for Episode #133</title>
+            <link>https://www.patreon.com/posts/bonus-content-23194366</link>
+            <description>We provide important assistance to listeners.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/23194366/fdbd7772fb8b43018677eb57ba8d5103/1.mp3?token-time=2145916800&amp;token-hash=_8AWg_SsQ3mOVjCwc8hU0DFn79L9EtaWUkBNZKdM6mU%3D" length="22240569" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">23194366</guid>
+            <pubDate>Fri, 07 Dec 2018 22:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Content for Episode 132</title>
+            <link>https://www.patreon.com/posts/bonus-content-23033514</link>
+            <description>John and Dan respond to listener mail, and reveal more behind the scenes details.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/23033514/9a6f110baa844df08f1ec18f8a95430b/1.mp3?token-time=2145916800&amp;token-hash=0CihMklGQrlM5FdAgM0Xk9CMLjAd1reLJwgPRPE2-Go%3D" length="42857712" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">23033514</guid>
+            <pubDate>Fri, 30 Nov 2018 20:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Content for Episode 131</title>
+            <link>https://www.patreon.com/posts/bonus-content-22849420</link>
+            <description>A special Thanksgiving episode for our amazing supporters.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/22849420/9e5d6cd1affd4489a0ba435d70ddc36e/1.mp3?token-time=2145916800&amp;token-hash=t8Eno13d_k6IsK9dUtgKENNhkGZL4eV_gkBq2W2gqZI%3D" length="24885467" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">22849420</guid>
+            <pubDate>Wed, 21 Nov 2018 16:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Content for Episode 130</title>
+            <link>https://www.patreon.com/posts/bonus-content-22698690</link>
+            <description>John reveals his true form.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/22698690/63a55680ef994c03b2c59ec4cd99e5e8/1.mp3?token-time=2145916800&amp;token-hash=zGQZuZ03mnucVt6C-f1BoMcucMZvdfpPG9t82t0wbGU%3D" length="48281254" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">22698690</guid>
+            <pubDate>Tue, 13 Nov 2018 22:58:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #8</title>
+            <link>https://www.patreon.com/posts/bonus-episode-8-22536892</link>
+            <description>We break down barriers, and help people.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/22536892/3e1757738006446096dbbaf231f0dcaf/1.mp3?token-time=2145916800&amp;token-hash=TiHbpJHRddDkA-pi-0uSsnlkPqbMt4PAVDMaAmI16Bc%3D" length="52128046" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">22536892</guid>
+            <pubDate>Mon, 05 Nov 2018 22:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #7</title>
+            <link>https://www.patreon.com/posts/bonus-episode-7-22188678</link>
+            <description>Politics is scary.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/22188678/d9cd421c58344a75a2410438b8fcaed0/1.mp3?token-time=2145916800&amp;token-hash=7nDn-4GHcloxV0M_8K1ImDfBKz4te74XKiN74eNfddQ%3D" length="28022251" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">22188678</guid>
+            <pubDate>Sat, 20 Oct 2018 21:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #6</title>
+            <link>https://www.patreon.com/posts/bonus-episode-6-21960191</link>
+            <description>John talks with Dan about dating.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/21960191/989d217d5ce14056afb14628882be42a/1.mp3?token-time=2145916800&amp;token-hash=HzEJpusFz2Nehqhl3IQEOTfUIKYuGvLqlMn-lucy7n4%3D" length="29088569" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">21960191</guid>
+            <pubDate>Tue, 09 Oct 2018 21:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #5</title>
+            <link>https://www.patreon.com/posts/bonus-episode-5-21748939</link>
+            <description>High school.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/21748939/0f94908192ae4deda376b4ea0bf44ccc/1.mp3?token-time=2145916800&amp;token-hash=Lndiv5GKRFyvV4-fPSg3PjJcaZN-Wxb9srm-cYoptEQ%3D" length="20684718" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">21748939</guid>
+            <pubDate>Sun, 30 Sep 2018 21:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #4</title>
+            <link>https://www.patreon.com/posts/bonus-episode-4-21540394</link>
+            <description>We handle listener mail which includes drinking a liter of coffee, relationship questions, hoarding, and more.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/21540394/25e0ee7539ef4c13b8cb0854a96ddc3b/1.mp3?token-time=2145916800&amp;token-hash=Gqt48f7LCdofJ_e6fbVFjIUEZO4Q5nwXCtiW2eOv7rQ%3D" length="28264617" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">21540394</guid>
+            <pubDate>Thu, 20 Sep 2018 21:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #3</title>
+            <link>https://www.patreon.com/posts/bonus-episode-3-21418861</link>
+            <description>A waspy arrangement. John and Dan discuss sex, marriage, challenge coins, and more.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/21418861/2fe582c991d34cddb3e119f30e0ff133/1.mp3?token-time=2145916800&amp;token-hash=JNqBVuH-uwIeghM8w_JsLatqOQbNlo2Lkm1J-qHspR4%3D" length="32864885" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">21418861</guid>
+            <pubDate>Fri, 14 Sep 2018 20:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #2</title>
+            <link>https://www.patreon.com/posts/bonus-episode-2-21275072</link>
+            <description>John and Dan reveal their secrets including John's buried homework and Dan's thoughts about other podcasters.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/21275072/5714d741e3c647ac9635b4574f9081da/1.mp3?token-time=2145916800&amp;token-hash=jakDNjibvaFDXSqI3FIip-kke-276homs1okrCHfrbM%3D" length="26872604" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">21275072</guid>
+            <pubDate>Fri, 07 Sep 2018 20:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bonus Episode #1</title>
+            <link>https://www.patreon.com/posts/bonus-episode-1-21185399</link>
+            <description>In their first bonus episode for Patreon supporters, John and Dan answer listener questions, and nothing is off limits.&lt;p&gt;If you want your RSS feed link for these, I believe you can follow these instructions:&lt;/p&gt;&lt;p&gt;&lt;a href="https://patreon.zendesk.com/hc/en-us/articles/212055866-How-Do-I-Get-and-Use-My-Audio-RSS-Link-" rel="nofollow noopener" target="_blank"&gt;https://patreon.zendesk.com/hc/en-us/articles/212055866-How-Do-I-Get-and-Use-My-Audio-RSS-Link-&lt;/a&gt;&lt;/p&gt;</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/21185399/0fe6304bd01742de90adcc569fceb937/1.mp3?token-time=2145916800&amp;token-hash=HgTj9UDVq1ifDEFzfCVrKX-eShSD3AOAMh_2UXDj1fM%3D" length="28216551" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">21185399</guid>
+            <pubDate>Mon, 03 Sep 2018 20:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title>After Episode 83</title>
+            <link>https://www.patreon.com/posts/after-episode-83-14599450</link>
+            <description>Dan and John discuss befouled Atari cartridges.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/14599450/27bdf48cee864b8c9c15479a0dd97d1f/1.mp3?token-time=2145916800&amp;token-hash=ekkW8vsuUn64uCqML-h_L1ZpEqbAvOoyZZDLD23paPI%3D" length="3256655" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">14599450</guid>
+            <pubDate>Thu, 28 Sep 2017 21:21:47 GMT</pubDate>
+        </item>
+        <item>
+            <title>Heaps</title>
+            <link>https://www.patreon.com/posts/heaps-13072210</link>
+            <description>Dan talks about anatta (not-self) and its relation to John's concept of Future John.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/13072210/a77adad881924b33bd078c08b6fe752d/1.mp3?token-time=2145916800&amp;token-hash=FmQ5p9B4sSwLASGEiCmVOjxAUwoJmFypWOqcPMxOK1k%3D" length="4624217" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">13072210</guid>
+            <pubDate>Mon, 17 Jul 2017 20:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 65 Bonus Content</title>
+            <link>https://www.patreon.com/posts/episode-65-bonus-10670524</link>
+            <description>Listener feedback and the state of podcasting in 2017.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/10670524/036b7c3552b249d2b9a68cf58b083114/1.mp3?token-time=2145916800&amp;token-hash=oyXB6X2T5re-M1ZAWf9faYWGGp6bX47k_oxRf6jn--g%3D" length="9589991" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">10670524</guid>
+            <pubDate>Sat, 06 May 2017 14:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title>Sleepless</title>
+            <link>https://www.patreon.com/posts/sleepless-9844420</link>
+            <description>A secret song for our amazing patrons.</description>
+            <enclosure url="https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/9844420/c1b05ca967634f429604dffca62eabd5/1.mp3?token-time=2145916800&amp;token-hash=xakXHBdk90P-kwXsBCk-qiU0voHX9VBiYI2ZYrnmnTo%3D" length="5289973" type="audio/mpeg"></enclosure>
+            <guid isPermaLink="false">9844420</guid>
+            <pubDate>Tue, 02 May 2017 15:08:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
